@@ -1,2 +1,3 @@
-# JS_Studies
-Repository aimed to respond some JavaScript Exercises
+# JavaScript Exercises
+
+This repository is divided by subject and inside each of them, there's the question and their answer.
