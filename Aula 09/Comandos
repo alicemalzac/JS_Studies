@@ -1,0 +1,10 @@
+npm –v
+npm init
+npm install express --save
+node index.js //rodar o programa
+Teste no browser -> localhost:4000
+
+Reinicia o servidor toda vez que for feita uma
+alteração:
+npm install nodemon –g
+nodemon index.j // rodar o programa

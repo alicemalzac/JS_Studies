@@ -1,0 +1,3 @@
+npm –v
+npm init
+node index.js //rodar o programa

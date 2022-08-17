@@ -1,0 +1,8 @@
+JSX 
+
+Definition: stands for Javascript Syntax Extension. 
+
+Goal: It allows you to use HTML and XML in JavaScript.
+->  In other words, the HTML/XML is converted into JavaScript before the code is compiled. This enables the full power of JavaScript to be employed with the relative ease of writing in HTML.
+
+

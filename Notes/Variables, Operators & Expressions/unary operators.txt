@@ -1,0 +1,5 @@
+typeof: Returns the type of the given operand
+delete: Deletes an object, objects attribute or an instance in an array
+void: Specifies that an expression does not return anything
+Increment Operators : ++, --
+

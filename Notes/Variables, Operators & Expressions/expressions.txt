@@ -1,0 +1,5 @@
+this: points to the current object
+super: calls methods on an object’s parent, for example, call parent’s constructor
+function: used to define a function
+function*: used to define a generator function
+async function: used to define an async function

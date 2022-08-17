@@ -1,0 +1,6 @@
+ES6 
+
+Definitions:
+Refers to version 6 of the ECMA Script programming language
+
+-> ECMA Script is the standardized name for JavaScript, and version 6 is the next version after version 5, which was released in 2011.

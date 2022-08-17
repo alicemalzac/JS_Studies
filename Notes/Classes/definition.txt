@@ -1,0 +1,5 @@
+A class is a separate mini-program with a context of its own — methods (functions) and properties (variables). 
+
+- They describe an entity in a way that a computer can understand.
+- Disparate instances (objects) of a class can be created and treated as variables. 
+

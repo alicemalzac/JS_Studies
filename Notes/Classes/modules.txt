@@ -1,0 +1,5 @@
+To make a class default export inside a module
+ - export default class_name {....};
+ 
+To import a default export class from a module
+ - import class_name from module_name;
